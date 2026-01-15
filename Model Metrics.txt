@@ -1,0 +1,14 @@
+learning_rate: 0.1
+max_depth: 2
+n_estimators: 100
+subsample: 0.8
+
+Best CV RMSE (Gradient Boosting): 0.0763
+
+RMSE: 0.0891
+MAE: 0.0743
+R²: 0.0550
+
+Random Forest Test RMSE: 0.0942
+Random Forest Test MAE: 0.0735
+Random Forest Test R²: -0.0560
